@@ -1,0 +1,112 @@
+{
+    "name": "Jon Bala",
+    "image": "/Me.png",
+    "profession": "React Developer",
+    "intro": "Focused on creating amazing UIs to solve business problems around the globe.",
+    "about": "I am React Developer and UI/UX Designer who loves to design and develop beautiful websites. I have been coding for over a year and enjoying every part of my journey. Always hungry to learn new technologies that includes Web Development.",
+    "skills": [
+      {
+        "src": "/logos/nextjs.svg",
+        "name": "Next JS",
+        "link": "https://nextjs.org/"
+      },
+      {
+        "src": "/logos/github.svg",
+        "name": "GitHub",
+        "link": "https://github.com/"
+      },
+      {
+        "src": "/logos/react.svg",
+        "name": "React",
+        "link": "https://reactjs.org/"
+      },
+      {
+        "src": "/logos/tailwind.svg",
+        "name": "Tailwind",
+        "link": "https://tailwindcss.com/"
+      },
+      {
+        "src": "/logos/typescript.svg",
+        "name": "Typescreipt",
+        "link": "https://www.typescriptlang.org/"
+      },
+      {
+        "src": "/logos/figma.svg",
+        "name": "Adobe XD",
+        "link": "https://www.adobe.com/products/xd.html"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Premium Clothing",
+        "image": "/projects/Voyagger.png",
+        "about": "Premium Clothing is an e-commerce web application that allows users to buy directly some of the best clothes, sneakers, pants from one of the biggest company in Kosovo, Arta Tex | Premium.",
+        "tech": ["Next.js", "Auth0", "Firebase", "Styled Components"],
+        "links": {
+          "GitHub": "https://github.com/jonbala/movie-app",
+          "Live": "http://premiumclothing.herokuapp.com/"
+        }
+      },
+      {
+        "name": "Rrethi TV",
+        "image": "/projects/Chatcube.png",
+        "about": "Rrethi TV is a website that .",
+        "tech": ["Next.js", "TailwindCSS"],
+        "links": {
+          "GitHub": "https://github.com/jonbala/rrethi-tv",
+          "Live": "http://www.rrethi.tv/"
+        }
+      }
+    ],
+    "testimonials": [
+      {
+        "value": "Joni is a very fast learner and is a very sincere individual. He explores new technologies and is unafraid of trying our things.Joni on React JS and Next JS and demonstrated good business understanding apart from the programming and user skills.",
+        "name": "Dion Haxhiu",
+        "relation": "Social Media Menager at Growzillas",
+        "pfp": "https://res.cloudinary.com/jonbala/image/upload/v1647380888/dion_kp0zsp.jpg",
+        "link": "https://www.linkedin.com/in/dion-haxhiu-3b7557221/"
+      },
+      {
+        "value": "Joni is an amazing web developer! He has created many dope websites. I have personally worked on a project with him and the experience was amazing as he learned some new things from and even I learned some new things from Joni",
+        "name": "Lorent Kurti",
+        "relation": "UI/UX Designer at TOP Reklama",
+        "pfp": "https://res.cloudinary.com/jonbala/image/upload/v1647380901/leki_utlqka.jpg",
+        "link": "https://www.linkedin.com/in/lorent-kurti-9a027622b/"
+      },
+      {
+        "value": "Joni is a very talented, helpful and a kind person. I can approve of his react skills as he has helped me and a lot of people in the community while they face issues, he is an active blogger and has written really useful articles in web development field.",
+        "name": "Shpend Veliu",
+        "relation": "QA & React Developer at BBros L.L.C",
+        "pfp": "https://res.cloudinary.com/jonbala/image/upload/v1647380909/pena_znmmga.jpg",
+        "link": "https://www.linkedin.com/in/shpendi-veli-07886021b/"
+      }
+    ],
+    "links": [
+      {
+        "name": "GitHub",
+        "icon": "github.svg",
+        "link": "https://github.com/jonbala"
+      },
+      {
+        "name": "Twitter",
+        "icon": "twitter.svg",
+        "link": "https://twitter.com/jonbjj_"
+      },
+      {
+        "name": "Instagram",
+        "icon": "instagram.svg",
+        "link": "https://instagram.com/jonbala"
+      },
+      {
+        "name": "Mail me",
+        "icon": "mail.svg",
+        "link": "mailto:jonbalaa@gmail.com"
+      },
+      {
+        "name": "LinkedIn",
+        "icon": "linkedin.svg",
+        "link": "https://www.linkedin.com/in/jon-bala-7a0101212/"
+      }
+    ]
+  }
+  
